@@ -1,6 +1,6 @@
-# Hi there, I'm [Fahim]! 👋
+# Hi there, I'm Fahim! 👋
 
-### 🚀 Data Enthusiast | Aspiring Data Scientist | Music Lover
+### 🚀 Data Enthusiast | Aspiring Data Scientist
 
 I'm a **Statistics student** at **Khulna University**, passionate about uncovering insights from data and building robust machine learning models. I'm currently working on exciting research projects and continuously expanding my knowledge in **Data Science**, **Machine Learning**, and **Data Mining**.
 
@@ -10,9 +10,9 @@ I'm a **Statistics student** at **Khulna University**, passionate about uncoveri
 - 🎓 Pursuing **B.Sc. in Statistics** at Khulna University (Graduating in **December 2024**).
 - 🔍 Exploring **Machine Learning**, **NLP**, and **Data Mining** for real-world applications.
 - 📊 Actively working on **research projects** in:
-  - **Antenatal Care (ANC) Research** – Publishing in a Q1 journal soon.
-  - **Food Habits Before & After COVID-19** – Aiming to publish by October 2024.
-  - **Machine Learning Project** – Targeting a Q1/Q2 journal by December 2024.
+  - **Antenatal Care (ANC) Research** 
+  - **Food Habits Before & After COVID-19** 
+  - **Machine Learning Project**
 
 ---
 
@@ -25,25 +25,16 @@ I'm a **Statistics student** at **Khulna University**, passionate about uncoveri
 
 ---
 
-### 🎯 **2024 Goals:**
+### 🎯 **2025 Goals:**
 - 💻 Master **SQL** and complete a **Data Analyst** project by the end of the year.
 - 📝 Publish **research papers** on **Data Science** topics.
-- 🎓 Secure admission for **MS in Data Science** in the USA.
+- 🎓 Secure admission for **MS in Data Science.** 
 - 🧑‍💼 Land a **Data Analyst** position before pursuing higher studies.
 
----
+ Connect:**
 
-### 🎵 **Beyond Data:**
-- 🎶 **Member of "Kristy"** – a musical club at Khulna University, paying tribute to legendary Bangla musicians.
-- 🎧 **Music Lover** – I love exploring various genres of music and often unwind with a good playlist.
-
----
-
-### 📫 **Let's Connect:**
-
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:your-email@example.com)
-- **Portfolio**: [Your Portfolio (if any)](#)
+- **LinkedIn**: (#)
+- **Email**: goffarfahim@gmail.com (#)
 
 ---
 
